@@ -33,6 +33,7 @@ class Home extends StatelessWidget {
             Text('안녕'),
             Text('안녕'),
             Text('안녕'),
+            Text('안녕')
           ],
         ),
       ),
